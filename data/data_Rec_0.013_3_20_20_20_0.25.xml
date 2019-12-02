@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<settings>
+    <resistance>3.769911184308</resistance>
+    <spring-stiffness>50</spring-stiffness>
+    <torsion-stiffness>0.001376210306399</torsion-stiffness>
+    <persistance-length>1.078318881078757e-06</persistance-length>
+    <absolute-temperature>300.0</absolute-temperature>
+    <contour-length-multiplier>2.616639919165452</contour-length-multiplier>
+    <use-extra-nodes>true</use-extra-nodes>    
+    <units-per-extra-node>0.35</units-per-extra-node>
+    <extra-nodes-per-edge>9</extra-nodes-per-edge>
+    <constant-extra-nodes>false</constant-extra-nodes>
+    <mass>10.0</mass>
+    <node-diameter>0.1</node-diameter>
+    <link-diameter>0.1</link-diameter>
+	<use-linking>true</use-linking>
+    <worm-like>true</worm-like>
+	<boundary-condition>true</boundary-condition>
+	<axis>0</axis>
+	<dpd-particles>false</dpd-particles>
+	<strain-test>0.9</strain-test>
+
+</settings>
+    <nodes default-mass="1.0">
+        <node>7.4745 16.5393 1.3896</node>
+        <node>8.2607 9.1187 19.58</node>
+        <node>0.31615 0.79433 18.975</node>
+        <node>16.0686 7.9634 15.9937</node>
+        <node>18.6905 15.7925 14.5684</node>
+        <node>5.3072 2.7072 14.7707</node>
+        <node>17.0176 3.6821 9.7676</node>
+        <node>14.4279 10.2011 13.8547</node>
+        <node>10.7558 5.577 17.8939</node>
+        <node>13.5708 8.2542 13.7756</node>
+        <node>10.1606 10.7865 12.2219</node>
+        <node>11.7038 2.336 16.2814</node>
+        <node>1.9832 16.1459 1.5225</node>
+        <node>12.3773 14.6773 14.6704</node>
+        <node>15.6395 11.6784 5.4268</node>
+        <node>0.39557 11.2416 10.4115</node>
+        <node>4.7589 4.6264 15.1285</node>
+        <node>9.9693 7.3859 7.5456</node>
+        <node>7.3808 15.3609 13.0067</node>
+        <node>6.007 14.6135 8.2405</node>
+        <node>10.7438 2.421 19.2475</node>
+        <node>6.422 8.906 19.1176</node>
+        <node>0.20008 14.0729 11.5016</node>
+        <node>17.641 15.2663 7.9186</node>
+        <node>17.7381 9.8755 0.43753</node>
+        <node>1.1324 6.0712 9.8317</node>
+        <node>5.2788 0.2122 9.402</node>
+        <node>10.3017 9.2539 13.2846</node>
+        <node>0.88262 0.56492 0.21296</node>
+        <node>13.2964 0.97668 0.28773</node>
+        <node>1.6779 9.0526 15.4809</node>
+        <node>0.070752 15.1182 13.4553</node>
+        <node>1.9744 3.4421 5.1676</node>
+        <node>12.8903 17.8073 12.2841</node>
+        <node>7.364 8.037 12.1606</node>
+        <node>1.8376 3.15 7.6833</node>
+        <node>11.9741 11.4343 0.20867</node>
+        <node>15.1677 16.5433 11.5087</node>
+        <node>10.2214 10.8162 7.0249</node>
+        <node>12.7267 3.5814 16.7391</node>
+        <node>2.1001 6.8499 8.5439</node>
+        <node>7.8083 11.7069 8.5317</node>
+        <node>15.2821 9.0802 11.046</node>
+        <node>13.3925 14.6255 7.6299</node>
+        <node>19.1127 7.0688 5.9886</node>
+        <node>4.1779 12.4005 10.7225</node>
+        <node>8.2575 1.7324 1.6922</node>
+        <node>1.7531 12.6827 5.4954</node>
+        <node>16.4783 17.0363 1.1008</node>
+        <node>13.6327 9.1054 16.1055</node>
+        <node>3.08 1.2788 3.6482</node>
+        <node>13.7132 11.4478 11.7144</node>
+        <node>18.1725 11.4904 5.7048</node>
+        <node>6.2114 11.5957 15.32</node>
+        <node>0.0035575 0.64088 2.5896</node>
+        <node>8.3032 13.1385 12.4977</node>
+        <node>17.1858 3.6613 18.1521</node>
+        <node>10.45 4.5259 1.0906</node>
+        <node>5.1492 5.1682 9.0686</node>
+        <node>8.911 11.2673 19.0463</node>
+        <node>7.4009 0.89639 13.5149</node>
+        <node>0.274 14.0592 2.7044</node>
+        <node>11.6809 6.6697 9.2382</node>
+        <node>15.9514 17.5211 5.8949</node>
+        <node>0.021467 17.7426 3.789</node>
+        <node>18.5705 2.6636 18.3675</node>
+        <node>10.5662 14.0849 13.0356</node>
+        <node>8.8891 8.6856 10.0728</node>
+        <node>18.5068 6.4592 2.5596</node>
+        <node>15.982 9.132 10.5603</node>
+        <node>2.7971 10.1714 11.3126</node>
+        <node>17.164 15.7323 7.0467</node>
+        <node>18.2007 6.9582 13.4272</node>
+        <node>19.8541 2.3464 2.6784</node>
+        <node>5.4162 9.3797 17.2877</node>
+        <node>14.0135 19.5504 9.3868</node>
+        <node>11.6766 18.974 17.261</node>
+        <node>6.7307 15.8542 0.48706</node>
+        <node>7.6184 0.112 12.7848</node>
+        <node>3.9596 19.6047 17.3766</node>
+        <node>15.4561 7.8495 3.3371</node>
+        <node>2.4567 15.515 6.2717</node>
+        <node>11.3917 7.5801 19.4493</node>
+        <node>4.2821 12.0822 16.6946</node>
+        <node>17.0978 9.8988 5.2219</node>
+        <node>2.1896 17.712 19.483</node>
+        <node>1.6405 10.185 13.6788</node>
+        <node>2.1494 14.218 12.991</node>
+        <node>15.7044 18.1417 1.6726</node>
+        <node>18.6852 3.6773 6.52</node>
+        <node>10.5348 16.876 2.6697</node>
+        <node>13.2612 8.3606 18.5412</node>
+        <node>10.4403 2.5772 11.6869</node>
+        <node>5.0088 11.3489 12.7012</node>
+        <node>9.6281 3.9203 18.2495</node>
+        <node>9.2532 8.2559 0.84184</node>
+        <node>16.4705 5.6779 11.4033</node>
+        <node>7.3162 8.5793 12.4228</node>
+        <node>17.4394 6.9312 17.9085</node>
+        <node>8.0851 6.4649 4.0591</node>
+        <node>9.0457 14.7209 14.53</node>
+        <node>5.8985 5.7273 8.6968</node>
+        <node>14.3598 8.7663 0.63369</node>
+        <node>15.9985 0.8429 10.4698</node>
+    </nodes>
+    <links>
+        <link>59 1</link>
+        <link>86 30</link>
+        <link>98 3</link>
+        <link>97 34</link>
+        <link>85 79</link>
+        <link>100 66</link>
+        <link>103 6</link>
+        <link>87 31</link>
+        <link>98 56</link>
+        <link>83 53</link>
+        <link>99 95</link>
+        <link>98 65</link>
+        <link>103 96</link>
+        <link>92 78</link>
+        <link>92 60</link>
+        <link>103 89</link>
+        <link>88 48</link>
+        <link>100 18</link>
+        <link>101 58</link>
+        <link>103 92</link>
+        <link>93 45</link>
+        <link>84 52</link>
+        <link>99 17</link>
+        <link>91 82</link>
+        <link>102 80</link>
+        <link>75 33</link>
+        <link>99 57</link>
+        <link>44 89</link>
+        <link>40 25</link>
+        <link>77 0</link>
+        <link>16 5</link>
+        <link>88 63</link>
+        <link>14 84</link>
+        <link>24 102</link>
+        <link>87 22</link>
+        <link>10 27</link>
+        <link>13 66</link>
+        <link>32 35</link>
+        <link>7 9</link>
+        <link>47 81</link>
+        <link>85 83</link>
+        <link>20 94</link>
+        <link>102 36</link>
+        <link>41 38</link>
+        <link>74 21</link>
+        <link>55 18</link>
+        <link>95 57</link>
+        <link>61 12</link>
+        <link>70 86</link>
+        <link>73 89</link>
+        <link>43 71</link>
+        <link>46 57</link>
+        <link>67 34</link>
+        <link>76 13</link>
+        <link>37 33</link>
+        <link>94 8</link>
+        <link>49 9</link>
+        <link>102 68</link>
+        <link>29 46</link>
+        <link>100 55</link>
+        <link>99 101</link>
+        <link>54 28</link>
+        <link>72 96</link>
+        <link>11 39</link>
+        <link>102 95</link>
+        <link>96 6</link>
+        <link>26 78</link>
+        <link>91 49</link>
+        <link>51 7</link>
+        <link>19 41</link>
+        <link>94 11</link>
+        <link>100 13</link>
+        <link>95 36</link>
+        <link>100 53</link>
+        <link>99 46</link>
+        <link>62 17</link>
+        <link>42 69</link>
+        <link>97 67</link>
+        <link>3 49</link>
+        <link>69 51</link>
+        <link>37 75</link>
+        <link>90 0</link>
+        <link>71 23</link>
+        <link>15 70</link>
+        <link>50 32</link>
+        <link>35 25</link>
+        <link>68 80</link>
+        <link>39 8</link>
+        <link>90 77</link>
+        <link>43 63</link>
+        <link>74 83</link>
+        <link>84 80</link>
+        <link>52 14</link>
+        <link>44 68</link>
+        <link>28 50</link>
+        <link>61 47</link>
+        <link>48 63</link>
+        <link>58 40</link>
+        <link>2 5</link>
+        <link>99 38</link>
+        <link>64 12</link>
+        <link>16 60</link>
+        <link>26 60</link>
+        <link>93 70</link>
+        <link>91 8</link>
+        <link>87 45</link>
+        <link>94 39</link>
+        <link>94 82</link>
+        <link>59 21</link>
+        <link>76 33</link>
+        <link>72 3</link>
+        <link>64 61</link>
+        <link>15 22</link>
+        <link>90 88</link>
+        <link>19 45</link>
+        <link>101 40</link>
+        <link>20 11</link>
+        <link>27 97</link>
+        <link>100 10</link>
+        <link>1 21</link>
+        <link>65 56</link>
+        <link>93 53</link>
+        <link>93 97</link>
+        <link>97 10</link>
+        <link>4 37</link>
+        <link>4 23</link>
+        <link>30 74</link>
+        <link>62 67</link>
+        <link>31 22</link>
+        <link>88 71</link>
+        <link>42 51</link>
+        <link>42 7</link>
+        <link>24 84</link>
+        <link>99 58</link>
+        <link>12 81</link>
+        <link>27 34</link>
+        <link>72 69</link>
+        <link>31 15</link>
+        <link>101 17</link>
+        <link>26 35</link>
+        <link>91 98</link>
+        <link>54 50</link>
+        <link>41 55</link>
+        <link>94 1</link>
+        <link>98 9</link>
+        <link>95 38</link>
+        <link>28 32</link>
+        <link>0 36</link>
+        <link>19 81</link>
+        <link>100 93</link>
+        <link>82 59</link>
+        <link>30 83</link>
+        <link>96 62</link>
+        <link>76 66</link>
+        <link>87 86</link>
+        <link>73 44</link>
+        <link>20 56</link>
+        <link>89 6</link>
+        <link>98 96</link>
+        <link>16 97</link>
+        <link>90 48</link>
+        <link>5 78</link>
+        <link>52 23</link>
+    </links>
+    <fixed>
+    </fixed>
+</data>

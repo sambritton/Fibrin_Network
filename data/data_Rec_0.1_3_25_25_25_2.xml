@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<settings>
+    <spring-stiffness>50</spring-stiffness>
+    <torsion-stiffness>2.262593420685</torsion-stiffness>
+    <persistance-length>0.001074033502990</persistance-length>
+    <absolute-temperature>300.0</absolute-temperature>
+    <contour-length-multiplier>2.351243606987286</contour-length-multiplier>
+    <use-extra-nodes>false</use-extra-nodes>    
+    <units-per-extra-node>0.6</units-per-extra-node>
+    <extra-nodes-per-edge>9</extra-nodes-per-edge>
+    <constant-extra-nodes>false</constant-extra-nodes>
+    <mass>10.0</mass>
+    <node-diameter>0.1</node-diameter>
+    <link-diameter>0.1</link-diameter>
+	<use-linking>false</use-linking>
+    <worm-like>true</worm-like>
+	<boundary-condition>true</boundary-condition>
+	<axis>0</axis>
+	<dpd-particles>false</dpd-particles>
+
+
+
+</settings>
+    <nodes default-mass="1.0">
+        <node>22.5214 2.5784 19.9626</node>
+        <node>11.1078 8.5957 9.2975</node>
+        <node>24.4192 2.0525 15.0356</node>
+
+   
+    </nodes>
+    <links>
+        <link>0 1</link>
+        <link>2 1</link>
+        <link>0 2</link>
+    
+    </links>
+    <fixed>
+    </fixed>
+</data>
